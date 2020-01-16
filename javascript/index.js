@@ -1,1 +1,1 @@
-document.getElementById('date').innerHTML = new Date().toDateString();
+document.getElementById('date').innerHTML = new Date().toDateString().concat(" This is about RPA, but in JS");
